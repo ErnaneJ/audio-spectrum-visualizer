@@ -1,4 +1,4 @@
-# Vizualização do conteúdo espectral de um arquivo de áudio
+# Visualização do conteúdo espectral de um arquivo de áudio
 
 O script análisado abaixo pode ser executado utilizando o arquivo **spectrum_welch.py** juntamente com o áudio **581010__xcreenplay__smoking-in-the-angel-section2.wav** presente na pasta assets.
 
